@@ -23,3 +23,11 @@ To install GitHub (https://www.digitalocean.com/community/tutorials/how-to-insta
 sudo apt-get update
 sudo apt-get install git
 ```
+
+
+Azure Management Console Configuration - Ports
+===========
+
+Navigate to your Azure management portal (https://manage.windowsazure.com/):
+* Virtual machines -- click your Machine name
+* 
