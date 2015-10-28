@@ -6,7 +6,7 @@ Accessing your virtual machine remotely
 * Please download putty from: http://www.putty.org/ 
 * To connect to your virtual machine use the DNS assigned to the VM. e.g. foo.cloudapp.net
 * If you are not familiar with Shell/Bash, please check out some tutorials here:
-** http://www.freeos.com/guides/lsst/
+  * http://www.freeos.com/guides/lsst/
 
 
 Setting up an Azure Virtual Machine
