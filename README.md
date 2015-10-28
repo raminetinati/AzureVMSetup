@@ -2,7 +2,7 @@
 Setting up an Azure Virtual Machine
 ===========
 
-General configuration of packages for LAMP STACK:
+General configuration of packages for LAMP staok (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu):
 
 ```
 sudo apt-get update
