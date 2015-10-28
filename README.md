@@ -29,5 +29,6 @@ Azure Management Console Configuration - Ports
 ===========
 
 Navigate to your Azure management portal (https://manage.windowsazure.com/):
-* Virtual machines -- click your Machine name
-* 
+* Virtual machines -- click on your VM name
+* ENDPOINTs - click this
+* Add the following ports: 80, 443, 27015, 27017, 3000, 3006, 9000
