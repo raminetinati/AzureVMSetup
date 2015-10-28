@@ -13,6 +13,13 @@ Accessing your virtual machine remotely
 
 Setting up an Azure Virtual Machine
 ===========
+
+First add yourself an account, and then make sure you add `sudo` access to that account:
+```
+sudo adduser <username>
+sudo adduser <username> sudo
+```
+
 General configuration of packages for LAMP stack (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu):
 
 ```
