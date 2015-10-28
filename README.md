@@ -17,3 +17,9 @@ echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.0 multiverse" 
 sudo apt-get update
 sudo apt-get install -y mongodb-org
 ```
+
+To install GitHub (https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04):
+```
+sudo apt-get update
+sudo apt-get install git
+```
