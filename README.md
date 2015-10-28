@@ -43,6 +43,13 @@ sudo apt-get install git
 ```
 
 
+To install Node
+```
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+```
+
 Azure Portal Configuration - Ports (ENDPOINTS)
 ===========
 
