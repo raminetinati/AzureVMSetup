@@ -1,6 +1,5 @@
 # AzureVMSetup
-Setting up an Azure Virtual Machine
-===========
+
 
 Accessing your virtual machine remotely
 =========
@@ -8,8 +7,9 @@ Accessing your virtual machine remotely
 * To connect to your virtual machine use the DNS assigned to the VM. e.g. foo.cloudapp.net
 
 
-
-General configuration of packages for LAMP staok (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu):
+Setting up an Azure Virtual Machine
+===========
+General configuration of packages for LAMP stack (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu):
 
 ```
 sudo apt-get update
