@@ -2,6 +2,13 @@
 Setting up an Azure Virtual Machine
 ===========
 
+Accessing your virtual machine remotely
+=========
+* Please download putty from: http://www.putty.org/ 
+* To connect to your virtual machine use the DNS assigned to the VM. e.g. foo.cloudapp.net
+
+
+
 General configuration of packages for LAMP staok (https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu):
 
 ```
