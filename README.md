@@ -25,7 +25,7 @@ sudo apt-get install git
 ```
 
 
-Azure Management Console Configuration - Ports
+Azure Portal Configuration - Ports (ENDPOINTS)
 ===========
 
 Navigate to your Azure management portal (https://manage.windowsazure.com/):
