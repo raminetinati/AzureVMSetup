@@ -7,7 +7,8 @@ Accessing your virtual machine remotely
 * To connect to your virtual machine use the DNS assigned to the VM. e.g. foo.cloudapp.net
 * If you are not familiar with Shell/Bash, please check out some tutorials here:
   * http://www.freeos.com/guides/lsst/
-
+  * https://en.wikipedia.org/wiki/Unix_shell
+ 
 
 Setting up an Azure Virtual Machine
 ===========
